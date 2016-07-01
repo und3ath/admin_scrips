@@ -1,3 +1,5 @@
+# Reporting in a chart the device type and count of activeSync users in Ms Exchange enviroment. 
+
 [void][Reflection.Assembly]::LoadWithPartialName("System.Windows.Forms") 
 [void][Reflection.Assembly]::LoadWithPartialName("System.Windows.Forms.DataVisualization") 
 $chart1 = New-object System.Windows.Forms.DataVisualization.Charting.Chart 
