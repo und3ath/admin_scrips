@@ -1,1 +1,1 @@
-# admin_scrips
+# admin_scripts
